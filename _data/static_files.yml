@@ -251,8 +251,16 @@
 - path: dancing/Blues-Brothers.gif
   modified_time: 1435335162
   extname: ".gif"
+<<<<<<< HEAD
 - path: dancing/molly-breakfast-club.gif
   modified_time: 1435335163
+=======
+- path: disgust/stanley-eye-roll.gif
+  modified_time: 1436464805
+  extname: ".gif"
+- path: disgust/ted-confused.gif
+  modified_time: 1359600553
+>>>>>>> 397e6e006821f070c70e243deee2a24dfd33050b
   extname: ".gif"
 - path: dancing/ace-ventura-dance.gif
   modified_time: 1435335162
@@ -413,8 +421,16 @@
 - path: contempt/no_way_Neil_deGrasse_Tyson.gif
   modified_time: 1435335162
   extname: ".gif"
+<<<<<<< HEAD
 - path: contempt/oh-please.gif
   modified_time: 1435335162
+=======
+- path: fail/robot-face-smash.gif
+  modified_time: 1433519770
+  extname: ".gif"
+- path: fail/truck-pool.gif
+  modified_time: 1430463202
+>>>>>>> 397e6e006821f070c70e243deee2a24dfd33050b
   extname: ".gif"
 - path: contempt/Dwight-Schrute-look-of-disapproval.gif
   modified_time: 1435335162
@@ -707,8 +723,37 @@
 - path: careful/indiana-jones-sand-bag.gif
   modified_time: 1435335162
   extname: ".gif"
+<<<<<<< HEAD
 - path: hacking/typity-type.gif
   modified_time: 1435335164
+=======
+- path: laughing/50-cent-laughing-small.gif
+  modified_time: 1436553069
+  extname: ".gif"
+- path: laughing/absurd-laugh.gif
+  modified_time: 1436553111
+  extname: ".gif"
+- path: laughing/baldwin-laugh.gif
+  modified_time: 1436553210
+  extname: ".gif"
+- path: laughing/beyonce-laugh.gif
+  modified_time: 1436553178
+  extname: ".gif"
+- path: laughing/dumb-dumber-laugh-2.gif
+  modified_time: 1436553228
+  extname: ".gif"
+- path: laughing/dumb-dumber-laugh.gif
+  modified_time: 1436553156
+  extname: ".gif"
+- path: laughing/fallon-laugh.gif
+  modified_time: 1436553100
+  extname: ".gif"
+- path: laughing/muppets-laugh.gif
+  modified_time: 1436553131
+  extname: ".gif"
+- path: lol/harry-lol.gif
+  modified_time: 1378929444
+>>>>>>> 397e6e006821f070c70e243deee2a24dfd33050b
   extname: ".gif"
 - path: mind-blown/mind-blown.gif
   modified_time: 1435335165
@@ -874,6 +919,9 @@
   extname: ".gif"
 - path: classics/cheech-joint.gif
   modified_time: 1435335162
+  extname: ".gif"
+- path: support/care-bear-stare.gif
+  modified_time: 1437579694
   extname: ".gif"
 - path: support/take-my-money.gif
   modified_time: 1435335166
